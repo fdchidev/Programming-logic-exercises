@@ -6,7 +6,7 @@ Aritméticos, lógicos, de comparación, asignación, identidad, pertenencia, bi
 - Utilizando las operaciones con operadores que tú quieras, crea ejemplos
 que representen todos los tipos de estructuras de control que existan
 en tu lenguaje:
-Condicionales, iterativas, excepciones...
+Condicionales, iterativas, excepciones...git a
 - Debes hacer print por consola del resultado de todos los ejemplos.
 
 DIFICULTAD EXTRA(opcional):
@@ -39,4 +39,6 @@ print(f'División entera 10 // 3 = {10 // 3}')
 
 
 # OPERADORES DE COMPARACIÓN
-print(f' ')
+print(f'Igualdad: 10 == 3 es {10 == 3}')   #IGUALDAD
+print(f'Desigualdad: 10 != 3 es {10 != 3}')  #DESIGUALDAD
+print(f'esta es:  {10 != 10}')
